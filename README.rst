@@ -47,4 +47,7 @@ Installation
 Production
 ==========
 
-Check out running application on cloud foundry(http://www.cloudfoundry.com/) - http://bit.ly/fcards
+Check out running application on::
+
+#. `cloud foundry <http://www.cloudfoundry.com/>` - http://bit.ly/fcards
+#. 'cloudBees <http://www.cloudbees.com/>' - http://bit.ly/cb-fcards
