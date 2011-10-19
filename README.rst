@@ -49,5 +49,5 @@ Production
 
 Check out running application on:
 
-#. `cloud foundry <http://www.cloudfoundry.com/>` - http://bit.ly/fcards
-#. `cloudBees <http://www.cloudbees.com/>` - http://bit.ly/cb-fcards
+#. `cloud foundry <http://www.cloudfoundry.com/>`_ - http://bit.ly/fcards
+#. `cloudBees <http://www.cloudbees.com/>`_ - http://bit.ly/cb-fcards
