@@ -1,3 +1,4 @@
+
 ***********
 Flash Cards
 ***********
@@ -31,8 +32,10 @@ Development environment
 Installation
 ============
 #. Clone the repository::
-
-    git clone git@github.com:kgrodzicki/flashcards-grails.git
+        Original repository:
+            git clone git@github.com:kgrodzicki/flashcards-grails.git
+        Forked Repository:
+            git clone git@github.com:zachlendon/flashcards-grails.git
 
 #. Navigate to project directory::
 
@@ -51,3 +54,13 @@ Check out running application on:
 
 #. `cloud foundry <http://www.cloudfoundry.com/>`_ - http://bit.ly/fcards
 #. `cloudBees <http://www.cloudbees.com/>`_ - http://bit.ly/cb-fcards
+
+Testing
+========
+
+Geb and Spock testing related to mobile/desktop versions added around core features
+
+Additional Changes in Fork
+================
+
+Also upgraded to Grails 2.0.3 and upgraded other libraries and templates accordingly
