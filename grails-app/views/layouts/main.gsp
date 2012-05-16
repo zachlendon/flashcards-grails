@@ -27,7 +27,7 @@
 				</sec:ifLoggedIn>
 	
 				<sec:ifNotLoggedIn>
-					<li><g:link controller='login' action='auth'><g:message code="button.login.label" /></g:link></li>
+					<li><g:link controller='login' action='auth' name="login"><g:message code="button.login.label" /></g:link></li>
 				</sec:ifNotLoggedIn>
 				
 				<sec:access expression="hasRole('ROLE_ADMIN')">

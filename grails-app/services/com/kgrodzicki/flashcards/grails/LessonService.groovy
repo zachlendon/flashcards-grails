@@ -11,4 +11,9 @@ class LessonService {
         
         lesson.save(flush:true)
     }
+
+    def delete() {
+        def lessons = Lesson.findAll()
+        lessons*.delete()
+    }
 }

@@ -48,7 +48,7 @@
 	<div data-role="page" data-position="fixed">
 		<div data-role="header">
 			<g:pageProperty name="page.buttons" />
-			<h1><g:pageProperty name="page.title" default="Flash Cards" /></h1>
+			<h1 class="mainHeader"><g:pageProperty name="page.title" default="Flash Cards" /></h1>
 		</div>
 		<!-- /header -->
 

@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="body">
-		<h1>
+		<h1 class="mainHeader" class="mainHeader">
 			<g:message code="default.start.label" />
 		</h1>
 		<g:if test="${flash.message}">
@@ -28,7 +28,7 @@
 						<td>
 							${lesson.id}
 						</td>
-						<td><g:link action="start" id="${lesson.id}">
+						<td><g:link name="lesson-${lesson.id}" action="start" id="${lesson.id}">
 								${lesson.name}
 							</g:link></td>
 					</tr>
