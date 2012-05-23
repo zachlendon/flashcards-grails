@@ -1,0 +1,521 @@
+[
+    {
+        "id": 1,
+        "name": "Grails mobile testing installation",
+        "cards": [
+            {
+                "id": 7,
+                "question": "Geb",
+                "answer": "grails install-plugin geb"
+            },
+            {
+                "id": 5,
+                "question": "Spock",
+                "answer": "grails install-plugin spock"
+            },
+            {
+                "id": 10,
+                "question": "Selenium",
+                "answer": "grails.project.dependency.resolution"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Dager i uken",
+        "cards": [
+            {
+                "id": 17,
+                "question": "Saturday",
+                "answer": "lørdag"
+            },
+            {
+                "id": 11,
+                "question": "Monday",
+                "answer": "mandag"
+            },
+            {
+                "id": 16,
+                "question": "Friday",
+                "answer": "fredag"
+            },
+            {
+                "id": 14,
+                "question": "Thursday",
+                "answer": "torsdag"
+            },
+            {
+                "id": 12,
+                "question": "Tuesday",
+                "answer": "tirsdag"
+            },
+            {
+                "id": 13,
+                "question": "Sunday",
+                "answer": "søndag"
+            },
+            {
+                "id": 15,
+                "question": "Wednesday",
+                "answer": "onsdag"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Adjektiver",
+        "cards": [
+            {
+                "id": 24,
+                "question": "expensive",
+                "answer": "dyr dyrere dyrest"
+            },
+            {
+                "id": 58,
+                "question": "bad",
+                "answer": "vond/ille verre verst"
+            },
+            {
+                "id": 27,
+                "question": "short",
+                "answer": "kort"
+            },
+            {
+                "id": 69,
+                "question": "leaking",
+                "answer": "lekker lekrere lekrest"
+            },
+            {
+                "id": 56,
+                "question": "old",
+                "answer": "gammel eldre eldst"
+            },
+            {
+                "id": 70,
+                "question": "simple",
+                "answer": "enkel enklere enklest"
+            },
+            {
+                "id": 18,
+                "question": "dark",
+                "answer": "mørk"
+            },
+            {
+                "id": 61,
+                "question": "pretty",
+                "answer": "pen penere penest"
+            },
+            {
+                "id": 26,
+                "question": "big, large",
+                "answer": "stor større størst"
+            },
+            {
+                "id": 65,
+                "question": "warm",
+                "answer": "varm varmer varmest"
+            },
+            {
+                "id": 20,
+                "question": "much",
+                "answer": "mye mer mest"
+            },
+            {
+                "id": 64,
+                "question": "interesting",
+                "answer": "interessant mer interessant/e mer interessant/e"
+            },
+            {
+                "id": 66,
+                "question": "sympathetic",
+                "answer": "sympatisk mer sympatisk/e mest sympatisk/e"
+            },
+            {
+                "id": 68,
+                "question": "used",
+                "answer": "brukt mer brukt/e mest brukt/e"
+            },
+            {
+                "id": 59,
+                "question": "heavy",
+                "answer": "tung tyngre tyngst"
+            },
+            {
+                "id": 57,
+                "question": "young",
+                "answer": "ung yngre yngst"
+            },
+            {
+                "id": 63,
+                "question": "boring",
+                "answer": "kjedelige kjedeligere kjedeligst"
+            },
+            {
+                "id": 21,
+                "question": "many",
+                "answer": "mange flere flest"
+            },
+            {
+                "id": 22,
+                "question": "healthy",
+                "answer": "sunn sunnere sunnest"
+            },
+            {
+                "id": 62,
+                "question": "hard",
+                "answer": "vanskelig vanskeligere vanskeligst"
+            },
+            {
+                "id": 60,
+                "question": "cheap",
+                "answer": "billig billigere billigst"
+            },
+            {
+                "id": 67,
+                "question": "illuminated",
+                "answer": "lysende mer lysende mest lysende"
+            },
+            {
+                "id": 25,
+                "question": "funny",
+                "answer": "morsom morsommere morsomst"
+            },
+            {
+                "id": 28,
+                "question": "good",
+                "answer": "god bedre best"
+            },
+            {
+                "id": 19,
+                "question": "small",
+                "answer": "liten mindre minst"
+            },
+            {
+                "id": 29,
+                "question": "easy",
+                "answer": "lett lettere lettest"
+            },
+            {
+                "id": 23,
+                "question": "cold",
+                "answer": "kald"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Verb bake - beherske",
+        "cards": [
+            {
+                "id": 37,
+                "question": "limit, confine",
+                "answer": "å begrense begrenser begrenset har begrenset"
+            },
+            {
+                "id": 34,
+                "question": "beat, knock",
+                "answer": "å banke banker banket har banket"
+            },
+            {
+                "id": 36,
+                "question": "state the reasons for",
+                "answer": "å begrunne begrunner begrunnet har begrunnet"
+            },
+            {
+                "id": 35,
+                "question": "shave",
+                "answer": "å barbere barberer barberte har barbert"
+            },
+            {
+                "id": 32,
+                "question": "pray, ask for",
+                "answer": "be(om) ber(om) ba(om) har bedt(om)"
+            },
+            {
+                "id": 38,
+                "question": "begin",
+                "answer": "å begynne begynner begynte har begynt"
+            },
+            {
+                "id": 31,
+                "question": "cheat, swindle",
+                "answer": "å bedra bedrar bedro har bedratt "
+            },
+            {
+                "id": 30,
+                "question": "master, control",
+                "answer": "å beherske behersker behersket har behersket"
+            },
+            {
+                "id": 39,
+                "question": "grasp, understand",
+                "answer": "å begripe begriper begre(i)p har begrept"
+            },
+            {
+                "id": 33,
+                "question": "bake",
+                "answer": "å bake baker bakte har bakt"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "På Vei - Kapittel 15",
+        "cards": [
+            {
+                "id": 88,
+                "question": "leisure",
+                "answer": "fritid"
+            },
+            {
+                "id": 44,
+                "question": "really",
+                "answer": "virkelig"
+            },
+            {
+                "id": 40,
+                "question": "enjoy",
+                "answer": "glede seg"
+            },
+            {
+                "id": 72,
+                "question": "close",
+                "answer": "å lukke lukker lukket har lukket"
+            },
+            {
+                "id": 71,
+                "question": "which",
+                "answer": "som"
+            },
+            {
+                "id": 89,
+                "question": "in relation to",
+                "answer": "i forhold til"
+            },
+            {
+                "id": 43,
+                "question": "continue",
+                "answer": "fortsett"
+            },
+            {
+                "id": 42,
+                "question": "enjoy",
+                "answer": "koser"
+            },
+            {
+                "id": 90,
+                "question": "remove",
+                "answer": "fjerne"
+            },
+            {
+                "id": 45,
+                "question": "a gift",
+                "answer": "en gave"
+            },
+            {
+                "id": 41,
+                "question": "both",
+                "answer": "begge"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Verb beite - besvare",
+        "cards": [
+            {
+                "id": 54,
+                "question": "pass, consist off",
+                "answer": "å bestå består besto har bestått"
+            },
+            {
+                "id": 47,
+                "question": "sorry, apologize",
+                "answer": "å beklage beklager beklaget har beklaget"
+            },
+            {
+                "id": 46,
+                "question": "gaze",
+                "answer": "å beite beiter beitet har beitet"
+            },
+            {
+                "id": 50,
+                "question": "defeat, conquer",
+                "answer": "å besire besirer beseiret har beseiret"
+            },
+            {
+                "id": 49,
+                "question": "worry",
+                "answer": "å bekymre bekymrer bekymret har bekymret"
+            },
+            {
+                "id": 55,
+                "question": "answer, reply to",
+                "answer": "å besvare besvarer besvarte har besvart"
+            },
+            {
+                "id": 52,
+                "question": "decide",
+                "answer": "å bestemme bestemmer bestemte har bestemt"
+            },
+            {
+                "id": 51,
+                "question": "describe",
+                "answer": "å beskrive beskriver beskrev har beskrevet"
+            },
+            {
+                "id": 53,
+                "question": "order",
+                "answer": "å bestille bestiller bestilte har bestilt"
+            },
+            {
+                "id": 48,
+                "question": "verify, confirm",
+                "answer": "å bekrefte bekrefter bekreftet har bekreftet"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Verb besøke - blåse",
+        "cards": [
+            {
+                "id": 73,
+                "question": "visit",
+                "answer": "å besøke besøker besøkte har besøkt"
+            },
+            {
+                "id": 80,
+                "question": "remain, become",
+                "answer": "å bli blir ble/blei har blitt"
+            },
+            {
+                "id": 75,
+                "question": "denote",
+                "answer": "å betegne betegner betegnet har betegnet"
+            },
+            {
+                "id": 74,
+                "question": "pay",
+                "answer": "å betale betaler betalte har betalt"
+            },
+            {
+                "id": 82,
+                "question": "blow",
+                "answer": "å blåse blåser blåste har blåst"
+            },
+            {
+                "id": 79,
+                "question": "bleach",
+                "answer": "å bleke bleker blekte har blekt"
+            },
+            {
+                "id": 78,
+                "question": "bite",
+                "answer": "å bite biter bet har bitt"
+            },
+            {
+                "id": 76,
+                "question": "mean",
+                "answer": "å bety betyr betydde har betydd"
+            },
+            {
+                "id": 81,
+                "question": "bluff",
+                "answer": "å bloffe om bløffer om bløffet om har bløffet om"
+            },
+            {
+                "id": 77,
+                "question": "link",
+                "answer": "å binde binder bandt har bundet"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Konjunksjon",
+        "cards": [
+            {
+                "id": 85,
+                "question": "beacause",
+                "answer": "for"
+            },
+            {
+                "id": 84,
+                "question": "but",
+                "answer": "men"
+            },
+            {
+                "id": 83,
+                "question": "and",
+                "answer": "og"
+            },
+            {
+                "id": 87,
+                "question": "so",
+                "answer": "så"
+            },
+            {
+                "id": 86,
+                "question": "or",
+                "answer": "eller"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Verb bo - bygge",
+        "cards": [
+            {
+                "id": 99,
+                "question": "offer",
+                "answer": "å by byr bød/bydde har budt-budd"
+            },
+            {
+                "id": 98,
+                "question": "should, ought",
+                "answer": "å burde bør burde har burdet"
+            },
+            {
+                "id": 97,
+                "question": "break",
+                "answer": "å bryte bryter brøt har brutt"
+            },
+            {
+                "id": 96,
+                "question": "use",
+                "answer": "å bruke bruker brukte har brukt"
+            },
+            {
+                "id": 93,
+                "question": "burn",
+                "answer": "å brenne brenner brente har brent"
+            },
+            {
+                "id": 92,
+                "question": "break",
+                "answer": "å brekke brekker brakk har brukket"
+            },
+            {
+                "id": 94,
+                "question": "bring",
+                "answer": "å bringe bringer brakte har brakt"
+            },
+            {
+                "id": 100,
+                "question": "build",
+                "answer": "å bygge bygger bygde har bygd"
+            },
+            {
+                "id": 95,
+                "question": "break, burst",
+                "answer": "å briste brister brast har bristet"
+            },
+            {
+                "id": 91,
+                "question": "live",
+                "answer": "å bo bor bodde har bodd"
+            }
+        ]
+    }
+]

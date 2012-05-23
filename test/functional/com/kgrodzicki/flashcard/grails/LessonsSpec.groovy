@@ -14,6 +14,7 @@ import spock.lang.Shared
 import org.springframework.context.ApplicationContext
 import org.codehaus.groovy.grails.web.context.ServletContextHolder
 import org.codehaus.groovy.grails.web.servlet.GrailsApplicationAttributes
+import javax.servlet.ServletContext
 
 class LessonsSpec extends MobileSpeck {
 
@@ -65,7 +66,8 @@ class LessonsSpec extends MobileSpeck {
         submit.click()
         at LoggedInIndexPage
         to UploadPage
-        $("form").jsonData = "/Users/lendon/Desktop/testLesson.json"
+
+        $("form").jsonData =  ServletContextHolder.getServletContext().getRealPath("/../test/functional/testLesson.json")
         uploadButton.click()
         waitFor {
             $("div.alert-message.block-message.info").find("p").text() ==~ "File imported."
